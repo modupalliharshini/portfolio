@@ -155,7 +155,7 @@ function HeroSection() {
         </nav>
       </FadeIn>
 
-      <div className="mt-7 overflow-visible px-3 sm:mt-4 sm:px-5 md:-mt-2">
+      <div className="mt-12 overflow-visible px-3 sm:mt-16 sm:px-5 md:mt-20">
         <FadeIn delay={0.15} y={40}>
           <h1 className="hero-heading w-full whitespace-nowrap text-center text-[8.4vw] font-black uppercase leading-none tracking-[-0.045em]">
             Hi, I&apos;m Harshini
