@@ -180,7 +180,7 @@ function HeroSection() {
       <div className="relative z-20 mt-auto flex items-end justify-between gap-6 px-5 pb-7 sm:px-8 sm:pb-8 md:px-10 md:pb-10">
         <FadeIn delay={0.35} y={20}>
           <p className="hero-intro max-w-[118px] text-[clamp(.62rem,1.4vw,1.5rem)] font-light uppercase leading-snug tracking-wide sm:max-w-[170px] md:max-w-[200px] lg:max-w-[270px]">
-            A front-end developer crafting thoughtful and responsive digital experiences
+           Building modern web experiences. Sidequesting in AI.
           </p>
         </FadeIn>
         <FadeIn delay={0.5} y={20} className="hidden sm:block">
@@ -288,7 +288,7 @@ function AboutSection() {
           </h2>
         </FadeIn>
         <div className="flex flex-col items-center gap-16 sm:gap-20 md:gap-24">
-          <AnimatedText text="I’m a front-end developer who loves turning ideas into clean, responsive, and user-friendly interfaces. I explore the back end too, because understanding the full picture makes every interface stronger. I enjoy figuring things out and making digital experiences that simply work." />
+          <AnimatedText text="Clean interfaces, smooth interactions, and meaningful details—that's what I enjoy building. Most of my work revolves around the web, where design and engineering come together, while my curiosity keeps pulling me toward AI, automation, and everything in between." />
           <ContactButton />
         </div>
       </div>
